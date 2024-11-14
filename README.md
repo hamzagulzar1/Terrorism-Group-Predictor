@@ -21,6 +21,6 @@ The original methodology and ensemble approach were inspired by the research pap
 Credits to the authors of the research paper for their foundational work on this problem. This implementation builds upon their approach, adding refinements to the model and an additional classifier for improved accuracy.
 
 # Features
-Machine Learning Model: Majority voting ensemble with five classifiers (Naive Bayes, K-Nearest Neighbors, ID3 Decision Tree, Decision Stump, and Random Forest).
-Streamlit Frontend: Interactive web application for user-friendly prediction and data visualization.
-Dockerized Deployment: Docker setup for easy containerization and deployment.
+## Machine Learning Model: Majority voting ensemble with five classifiers (Naive Bayes, K-Nearest Neighbors, ID3 Decision Tree, Decision Stump, and Random Forest).
+## Streamlit Frontend: Interactive web application for user-friendly prediction and data visualization.
+## Dockerized Deployment: Docker setup for easy containerization and deployment.
